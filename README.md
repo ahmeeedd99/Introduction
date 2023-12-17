@@ -8,7 +8,7 @@ I'm a passionate UI/UX designer who loves creating seamless user experiences.
 
 ## 🚀 About Me
 
-- 💼 UI/UX Designer at [Sahara international Group]
+- 💼 UI/UX Designer at Sahara international Group
 - 🌱 Currently exploring advanced UX design methodologies
 - 🎯 Focused on enhancing user interactions through design
 - 🌈 Fun Fact: I find inspiration for design in everyday life experiences
